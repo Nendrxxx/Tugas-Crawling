@@ -1,0 +1,17 @@
+# Dashboard
+streamlit
+plotly
+matplotlib
+wordcloud
+pandas
+
+# Scraping (selenium-twitter-scraper)
+selenium
+requests
+beautifulsoup4
+
+# Analisis & Machine Learning
+numpy
+scikit-learn
+torch
+transformers
