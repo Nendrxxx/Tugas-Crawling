@@ -80,8 +80,8 @@ Oleh karena itu, dilakukan analisis sentimen untuk:
 1. **Clone Repo**
 
    ```bash
-   git clone https://github.com/username/pestapora-sentiment.git
-   cd pestapora-sentiment
+   git clone https://github.com/Nendrxxx/Tugas-Crawling
+   cd Tugas-Crawling
    ```
 
 2. **Buat Virtual Environment**
