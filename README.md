@@ -12,13 +12,13 @@ Sebagian warganet menanggapinya positif karena dukungan pada acara musik, sement
 
 Oleh karena itu, dilakukan analisis sentimen untuk:
 
-* Mengetahui **pola respons pSublik** (positif, negatif, netral).
+* Mengetahui **pola respons publik** (positif, negatif, netral).
 * Melihat **tren percakapan** pada periode Agustus – September.
 * Mengidentifikasi kata-kata dominan yang sering muncul.
 * Menyediakan **dashboard interaktif** untuk eksplorasi data.
 
 ---
-SS
+
 ## Alur Analisis
 
 1. **Crawling Data**
