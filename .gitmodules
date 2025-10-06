@@ -1,0 +1,3 @@
+[submodule "scraper"]
+	path = scraper
+	url = https://github.com/godkingjay/selenium-twitter-scraper
